@@ -20,10 +20,9 @@ drive.mount('/gdrive', force_remount=True)
 ```
 
 ## Installing the required libraries
-To run the codes, Bayesian-optimization and SHAP should be installed. You can install those libraries by running 
+To run the codes, SHAP should be installed. You can install those libraries by running 
 
 ```
-!pip install bayesian-optimization
 !pip install shap
 ```
 
