@@ -32,4 +32,4 @@ Other libraries, such as XGBoost and sklearn, are already installed in Google Co
 After loading the dataset file and machine learning models, the SHAP summary plot will appear. For the SHAP dependence plot, the variable should be assigned (e.g., MWCO, charge_product...).
 
 
-<img src="https://t.bkit.co/w_63bd448b5d9be.gif" />
+<img src="https://t.bkit.co/w_63d449ee8bbeb.gif" />
